@@ -74,6 +74,7 @@
 		                    <dockerDirectory>src/main/docker</dockerDirectory>
 		                    <pushImage>true</pushImage>
 		                    <serverId>docker-hub</serverId>
+		                    <dockerHost>https://registry.hub.docker.com</dockerHost>
 		                    <resources>
 			                    <resource>
 			                        <targetPath>/</targetPath>
