@@ -69,7 +69,7 @@
 			                </execution>
 		            	</executions>
 		                <configuration>
-		                    <imageName>my-image:${project.version}</imageName>
+		                    <imageName>jdevhari/my-image:${project.version}</imageName>
 		                    <baseImage>java</baseImage>
 		                    <dockerDirectory>src/main/docker</dockerDirectory>
 		                    <pushImage>true</pushImage>
