@@ -3,3 +3,5 @@ machine:
     version: oraclejdk8
   node:
     version: 0.10.28
+  services:
+    - docker
