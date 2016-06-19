@@ -122,7 +122,7 @@ under the License.
     -->
 
   <server>
-    <id>docker-hub</id>
+    <id>registry.hub.docker.com</id>
     <username>jdevhari</username>
     <password>Infosys9</password>
     <configuration>
