@@ -73,6 +73,7 @@
 		                    <baseImage>java</baseImage>
 		                    <dockerDirectory>src/main/docker</dockerDirectory>
 		                    <pushImage>true</pushImage>
+		                    <serverId>docker-hub</serverId>
 		                    <resources>
 			                    <resource>
 			                        <targetPath>/</targetPath>
