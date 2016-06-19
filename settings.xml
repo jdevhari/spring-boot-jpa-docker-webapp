@@ -127,6 +127,7 @@ under the License.
     <password>Infosys9</password>
     <configuration>
       <email>jdev.hari@gmail.com</email>
+      <registryUrl>https://registry.hub.docker.com</registryUrl>
     </configuration>
   </server>
 
